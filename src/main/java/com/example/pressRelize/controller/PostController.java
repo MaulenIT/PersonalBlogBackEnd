@@ -9,7 +9,6 @@ import java.util.List;
 
 @RestController
 @CrossOrigin("*")
-
 public class PostController {
 
     @Autowired
